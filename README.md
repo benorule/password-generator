@@ -1,6 +1,12 @@
 # password-generator
 Coursework Assignment No. 3 for Coding Bootcamp
 
+Link to deployed application: https://benorule.github.io/password-generator/
+
+Screenshot of deployed application:
+
+![Index file screenshot](/assets/password-generator-screenshot.png?raw=true "Application Screenshot")
+
 The html file and css file were provided to me by the Coding Bootcamp and were not edited with the exception of the links to the css and javascript file within the html file which were changed to include the assets folder.
 
 The javascript file was also provided to me by the Coding Bootcamp, the unedited version being in the first commit to GitHub. This is the file in which most of the work was done.
