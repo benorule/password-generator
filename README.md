@@ -1,11 +1,34 @@
 # password-generator
-Coursework Assignment No. 3 for Coding Bootcamp
 
 Link to deployed application: https://benorule.github.io/password-generator/
 
 Screenshot of deployed application:
 
 ![Index file screenshot](/assets/password-generator-screenshot.png?raw=true "Application Screenshot")
+
+## Table of Contents: 
+ * [Description](#Description) 
+* [Installation Instructions](#Installation-Instructions) 
+* [Usage Information](#Usage-Information) 
+* [Contribution Guidlines](#Contribution-Guidelines) 
+* [Test Instructions](#Test-Instructions) 
+* [Questions](#Questions) 
+## Description 
+Password generator that allows user to choose certain criteria for the password to have.
+## Installation Instructions 
+This project is hosted by GitHub pages. Alternatively, you can download the app from GitHub through the command git clone or by downloading the zip file.
+## Usage Information 
+Click the generate button and answer the questions presented in the alert boxes.
+## Contribution Guidelines 
+To contribute to this project please submit a pull request on GitHub with a clear description of your contribution.
+## Test Instructions 
+Click the generate button with the chrome dev tools console open.
+## Questions 
+ * GitHub: https://github.com/benorule
+* Email: benorule@outlook.com
+* License: MIT
+
+# Some information about the development process:
 
 The html file and css file were provided to me by the Coding Bootcamp and were not edited with the exception of the links to the css and javascript file within the html file which were changed to include the assets folder.
 
